@@ -27,7 +27,7 @@ Each task contains:
 - SQL Server or SQLite (via EF Core)
 - Bootstrap (optional, for styling)
 
-- - ## 📦 How to Run
+## 📦 How to Run
 
 1. Clone the repository:
    ```bash
